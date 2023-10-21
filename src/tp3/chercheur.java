@@ -1,5 +1,3 @@
-import com.sun.source.tree.ReturnTree;
-
 public class chercheur {
     static int nbc=0;
     public String nom ;
