@@ -6,6 +6,7 @@ public class produit {
     String libelle;
     String marque;
     double prix;
+    //////
 
     public produit() {
 
